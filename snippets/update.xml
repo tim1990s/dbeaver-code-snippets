@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="sql" deleted="false" description="" enabled="true" name="udw">UPDATE  ${table}&#13;
+SET ${column}  = &#13;
+WHERE&#13;
+</template></templates>
