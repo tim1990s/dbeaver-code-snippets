@@ -40,6 +40,10 @@ This example can be explained **"When I type `lj` and press `tab`, the `INNER JO
 
 ![picture 3](images/3.png "step 3")
 
+![picture 3](images/select_from.gif "step 3")
+
+![picture 3](images/select_top.gif "step 3")
+
 ### 2. How to import the existing snippet
 
 By clicking the button `Import` and a new window will be displayed and you have to locate the location which places your template.
